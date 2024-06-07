@@ -23,4 +23,3 @@ conda activate rchatbot
 ```bash
 pip install -r requirements.txt
 ```
-
